@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Un Flambeau Pour Toi
+
+This log tracks the cryptographic history and versioning for the song **Un Flambeau Pour Toi** (un-flambeau-pour-toi).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-26T03:40:36.373679 | `v1` | `935dc9d1c5e7c3c7c37ccacf12990523cda056fe09209af9f02826e2224eec81` | `2730bcfb240b87fb7f89b7e01ed2bea0ec23c166043c1a2ea9b2b158204d7cce` | `2026-06-26_un-flambeau-pour-toi-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

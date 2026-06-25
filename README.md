@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/un-flambeau-pour-toi/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Un Flambeau Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-flambeau-pour-toi/) |
+| **Get License** | [Official Music Licensing for Un Flambeau Pour Toi](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/un-flambeau-pour-toi/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `935dc9d1c5e7c3c7c37ccacf12990523cda056fe09209af9f02826e2224eec81` |
 | **Timestamp** | June 26, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
